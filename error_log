@@ -1,0 +1,6 @@
+[15-Aug-2022 07:43:31 UTC] PHP Deprecated:  Required parameter $login_type follows optional parameter $digits in /home/asdhj/public_html/api/app/Http/Helpers/Helper.php on line 19
+[15-Aug-2022 07:44:23 UTC] PHP Deprecated:  Required parameter $login_type follows optional parameter $digits in /home/asdhj/public_html/api/app/Http/Helpers/Helper.php on line 19
+[15-Aug-2022 07:50:02 UTC] PHP Deprecated:  Required parameter $login_type follows optional parameter $digits in /home/asdhj/public_html/api/app/Http/Helpers/Helper.php on line 19
+[20-Aug-2022 11:30:21 UTC] PHP Fatal error:  Cannot declare class CreateFavoritesTable, because the name is already in use in /home/asdhj/public_html/api/database/migrations/2022_08_10_999999_create_favorites_table.php on line 7
+[20-Aug-2022 11:31:57 UTC] PHP Fatal error:  Cannot declare class CreateFavoritesTable, because the name is already in use in /home/asdhj/public_html/api/database/migrations/2022_08_10_999999_create_favorites_table.php on line 7
+[20-Aug-2022 11:36:29 UTC] PHP Fatal error:  Cannot declare class CreateMessagesTable, because the name is already in use in /home/asdhj/public_html/api/database/migrations/2022_08_10_999999_create_messages_table.php on line 7
